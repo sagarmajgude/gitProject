@@ -1,1 +1,3 @@
-const a='Hi there';
+
+const a=10;
+const myFunc=()=>{};
